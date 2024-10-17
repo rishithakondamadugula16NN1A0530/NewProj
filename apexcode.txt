@@ -1,0 +1,4 @@
+public class firstclass(){
+
+public staatic void setup(){}
+}
